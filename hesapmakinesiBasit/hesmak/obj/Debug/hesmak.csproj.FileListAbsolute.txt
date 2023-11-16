@@ -1,0 +1,11 @@
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\bin\Debug\hesmak.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\bin\Debug\hesmak.exe
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\bin\Debug\hesmak.pdb
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.hesmakFrm.resources
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.exe
+D:\Belgeler\Visual Studio 2022\Projects\hesmak\hesmak\obj\Debug\hesmak.pdb
